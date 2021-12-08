@@ -1,0 +1,22 @@
+PODS:
+  - classroom_screen_recorder (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - classroom_screen_recorder (from `.symlinks/plugins/classroom_screen_recorder/ios`)
+  - Flutter (from `Flutter`)
+
+EXTERNAL SOURCES:
+  classroom_screen_recorder:
+    :path: ".symlinks/plugins/classroom_screen_recorder/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  classroom_screen_recorder: a33759530d561261322dc9b9326ba1acb5b4df13
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+
+PODFILE CHECKSUM: 8e679eca47255a8ca8067c4c67aab20e64cb974d
+
+COCOAPODS: 1.9.3
